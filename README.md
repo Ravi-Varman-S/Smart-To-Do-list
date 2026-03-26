@@ -1,13 +1,13 @@
-🧠 Focus Mode Study Tracker
+📝 Smart To-Do List
 
 -> Description
-A smart productivity tracker that measures focus by detecting tab switching.
+A simple and smart to-do list that stores tasks using browser local storage.
 
 -> Features
-- Timer tracking
-- Focus score calculation
-- Tab switch detection
-- Data stored in local storage
+- Add tasks
+- Delete tasks
+- Mark tasks as completed
+- Data saved even after refresh
 
 -> Tech Used
 - HTML
@@ -15,4 +15,4 @@ A smart productivity tracker that measures focus by detecting tab switching.
 - JavaScript
 
 -> How to Run
-Open index.html in browser
+Open index.html in your browser
